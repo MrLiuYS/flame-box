@@ -1,6 +1,9 @@
 # langaw
 
-A new Flutter project.
+打包web
+```
+flutter build web --web-renderer html
+```
 
 ## Getting Started
 
